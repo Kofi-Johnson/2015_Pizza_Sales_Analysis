@@ -49,11 +49,11 @@ This analysis provides actionable insights for optimizing pizza sales strategies
 ## Repository Structure
 ```
 2015_Pizza_Sales_Analysis
-📁 `Project Images/` – Contains dashboard screenshots  
-📄 `Pizza Sales Project.pbix` – Power BI dashboard file  
-📄 `Pizza Sales Project.sql` – SQL queries used in the analysis  
-📄 `Pizza Sales Project.csv` – Dataset  
+📁 `Project Images/` – Contains dashboard screenshots
+📄 `Pizza Sales Project.pbix` – Power BI dashboard file
+📄 `Pizza Sales Project.sql` – SQL queries used in the analysis
 📄 `README.md` – Project documentation
+📄 `Pizza Sales Project.csv` – Dataset
 
 ```
 
