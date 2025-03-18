@@ -6,7 +6,22 @@ This project analyzes pizza sales data from 2015 using SQL Server Management Stu
 
 ## Dataset
 - Source: CSV file (https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z?usp=sharing)
-- Attributes/ Column Headers: Pizza Id, Order Id, Pizza Name Id, Quantity, Order Date, Order Time,	Unit Price,	Total Price,	Pizza Size,	Pizza Category,	Pizza Ingredients,	Pizza Name
+- Attributes/ Column Headers:
+    - Pizza Id
+    - Order Id
+    - Pizza Name Id
+    - Quantity
+    - Order Date
+    - Order Time
+    - Unit Price
+    - Total Price
+    - Pizza Size
+    - Pizza Category
+    - Pizza Ingredients
+    - Pizza Name
+
+*After inspecting the dataset for missing values, duplicates, and inconsistencies, I found it clean and ready for analysis, so no preprocessing was required.*
+
 
 ## Key Analyses
 ### SQL Queries
